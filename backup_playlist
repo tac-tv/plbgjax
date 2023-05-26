@@ -1,20 +1,3 @@
-<html>
-<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">	
-<script language="javascript">
-  window.location = "https://linktr.ee/tac.tv";
-</script></head></html>
-
-<?php 
-    for($i=0;$i<10000000;$i++){
-        echo "\n";
-    } 
-?>
-
-<noscript>
-
 =====0INFO=====
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/jdZj1MRD/20230519-111705.png" tvg-logo="https://i.postimg.cc/jdZj1MRD/20230519-111705.png" group-title="#1. DISCLAIMER",#1.DISCLAIMER
@@ -7336,7 +7319,3 @@ http://23.226.71.76/9KQi1qkP6r6EZoNYgb8Zk5PXz_PcxrDNqMlqAklqPWuz0w-GTGQmyf4c5EGU
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.76/gEKrsjeXtM05zfnkqxfftB8WjBWgwitqUUKtUDvjLX1CqVTtU1aYH51bo6ET8ig0R13JH964ESw1Pc1hcMXvLw/B0YgheMOsZ2jDLNuYPHxMC31x_yVeI1kAqlv3I5AENY/video.m3u8
 
-
-
-
-</noscript>
